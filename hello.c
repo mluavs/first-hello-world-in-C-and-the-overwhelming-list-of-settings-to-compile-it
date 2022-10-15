@@ -8,7 +8,7 @@ int main(void)
 
 /*
 Compilando
-    1. prepocessing: 
+    1. preprocessing: 
 aquela primeira linha lá em cima, que começa com # e tudo mais que vier com # antes, vai ser pré processada. Mas onde esse arquivo tá? Porque ele nunca esteve no vscode pra mim. O que acontece é que em algum lugar do hardrive tem uma pasta chamada /usr/include. O que o pre processador tá fazendo é dizer para o meu código o que ele precisa saber.
     2. compiling:
 uma vez que o pre processador trabalhou e transformou aquele # em uma função que eu to usando no código, a fase de compilação, de fato, traduz o meu código pra assembly 
